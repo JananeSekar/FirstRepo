@@ -1,0 +1,4 @@
+﻿This is file one
+
+git init
+git add file1.txt
